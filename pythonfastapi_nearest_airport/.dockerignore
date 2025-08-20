@@ -1,0 +1,16 @@
+__pycache__/
+logs/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.vscode/
+Program Files/
+Program Files (x86)/
+Windows/
+node_modules/
+*.dll
+*.mui
+*.exe
+.env
+*.md
