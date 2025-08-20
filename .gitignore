@@ -1,6 +1,3 @@
-__pycache__/
 *.pem
 *.crt.pem
 *.key.pem
-wildcard_tridiondemo_com.crt.pem
-wildcard_tridiondemo_com.key.pem
