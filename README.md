@@ -86,5 +86,3 @@ SSL Setup:
 > Add the below files into root folder Structure.
 	a) <certificate_name>.crt.pem
 	b) <certificate_name>.key.pem
-
-
